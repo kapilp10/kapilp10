@@ -65,16 +65,16 @@ I've shipped real-world applications including a private letter exchange platfor
 <div align="center">
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=python,cpp,js,ts,kotlin,sql&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,cpp,js,kotlin,sql&theme=dark)](https://skillicons.dev)
 
 ### Frontend
 [![Frontend](https://skillicons.dev/icons?i=react,tailwind,html,css,vite,figma&theme=dark)](https://skillicons.dev)
 
 ### Backend & Databases
-[![Backend](https://skillicons.dev/icons?i=nodejs,supabase,postgres,firebase,express,mongodb&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,supabase,postgres&theme=dark)](https://skillicons.dev)
 
 ### Cloud, DevOps & Tooling
-[![Tools](https://skillicons.dev/icons?i=git,github,linux,docker,androidstudio,vscode&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,docker,androidstudio,vscode&theme=dark)](https://skillicons.dev)
 
 </div>
 
