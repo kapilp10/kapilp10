@@ -11,7 +11,7 @@
 <br/>
 
 <!-- ACADEMIC & LOCATION BADGES -->
-![B.Tech CS](https://img.shields.io/badge/B.Tech-Computer%20Science%20'26-6D28D9?style=flat-square&logoColor=white)
+![B.Tech CS](https://img.shields.io/badge/B.Tech-Computer%20Science%20'28-6D28D9?style=flat-square&logoColor=white)
 ![India](https://img.shields.io/badge/📍-Indore%2C%20India-4F46E5?style=flat-square)
 
 <br/>
