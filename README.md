@@ -71,7 +71,7 @@ I've shipped real-world applications including a private letter exchange platfor
 [![Frontend](https://skillicons.dev/icons?i=react,tailwind,html,css,vite,figma&theme=dark)](https://skillicons.dev)
 
 ### Backend & Databases
-[![Backend](https://skillicons.dev/icons?i=nodejs,supabase,postgres&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,fastapi,supabase,postgres&theme=dark)](https://skillicons.dev)
 
 ### Cloud, DevOps & Tooling
 [![Tools](https://skillicons.dev/icons?i=git,github,docker,androidstudio,vscode&theme=dark)](https://skillicons.dev)
