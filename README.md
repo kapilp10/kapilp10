@@ -5,7 +5,7 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+intelligent+systems+from+the+ground+up.;B.Tech+Computer+Science+%7C+Class+of+2026;React+%E2%80%A2+Machine+Learning+%E2%80%A2+Data+Science;Open+to+AI%2FML+%26+Data+Engineering+roles." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+intelligent+systems+from+the+ground+up.;B.Tech+Computer+Science+%7C+Class+of+2028;React+%E2%80%A2+Machine+Learning+%E2%80%A2+Data+Science;Open+to+AI%2FML+%26+Data+Engineering+roles." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -39,7 +39,7 @@ name        : Kapil Paliwal
 username    : kapilp10
 role        : Software Engineer & AI/ML Engineer
 location    : Indore, Madhya Pradesh, India
-education   : B.Tech Computer Science — Class of 2026
+education   : B.Tech Computer Science — Class of 2028
 focus       : Data Science · Machine Learning · Full Stack Engineering
 linkedin    : linkedin.com/in/kapil-paliwal-60531b347
 leetcode    : leetcode.com/u/Kapilp10
@@ -99,7 +99,7 @@ I've shipped real-world applications including a private letter exchange platfor
 
 ## Featured Projects
 
-<details>
+<!-- <details>
 <summary><strong>✉️ Inkbound — Private Letter Exchange Platform</strong></summary>
 
 <br/>
@@ -118,9 +118,9 @@ I've shipped real-world applications including a private letter exchange platfor
 Inkbound is a deliberately slow communication platform. Unlike messaging apps optimised for speed, Inkbound is built around the ritual of letter writing: compose, reflect, send. The backend is handled entirely by Supabase, with PostgreSQL as the data layer and row-level security policies enforcing strict privacy between letter pairs.
 
 <br/>
-</details>
+</details> -->
 
-<details>
+<!-- <details>
 <summary><strong>📊 Personal Productivity Dashboard</strong></summary>
 
 <br/>
@@ -139,7 +139,7 @@ Inkbound is a deliberately slow communication platform. Unlike messaging apps op
 Built from a genuine personal need for a single dashboard to track finances, habits, tasks, and thoughts. The architecture is modular: each section is a self-contained React component with its own state. Expense tracking is designed around the Indian Rupee with category-level breakdowns and monthly summaries.
 
 <br/>
-</details>
+</details> -->
 
 <details>
 <summary><strong>🔍 Crime Detection System — ML Pipeline</strong></summary>
