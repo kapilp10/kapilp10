@@ -231,7 +231,7 @@ Delivered production-grade React.js and HTML/CSS websites for clients in the cin
 | 🔢 **Active on LeetCode** | Consistent algorithmic problem solving, C++ focus — [Kapilp10](https://www.leetcode.com/u/Kapilp10) |
 | 📸 **Photography Brand** | Built @10mm.dreams — landscape and wide-angle film photography identity |
 | ✉️ **Global Pen Pal Correspondent** | Active correspondent across Turkey, South Korea, India via Slowly |
-| 🎓 **Final Year CS Student** | B.Tech Computer Science, graduating 2026, full-stack and ML portfolio |
+| 🎓 **Pre-Final Year CS Student** | B.Tech Computer Science, graduating 2028, full-stack and ML portfolio |
 | 🌍 **International Mindset** | Pursuing global opportunities in AI/ML and data science |
 
 </div>
