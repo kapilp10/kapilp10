@@ -227,12 +227,9 @@ Delivered production-grade React.js and HTML/CSS websites for clients in the cin
 
 | Recognition | Details |
 |---|---|
-| 🏗️ **Shipped Production Apps** | Inkbound (React + Supabase), Productivity Dashboard, Unworried (Android), media_cine_films — all real, deployed projects |
+| 🏗️ **Shipped Production Apps** | Productivity Dashboard, Unworried (Android), media_cine_films — all real, deployed projects |
 | 🔢 **Active on LeetCode** | Consistent algorithmic problem solving, C++ focus — [Kapilp10](https://www.leetcode.com/u/Kapilp10) |
-| 📸 **Photography Brand** | Built @10mm.dreams — landscape and wide-angle film photography identity |
-| ✉️ **Global Pen Pal Correspondent** | Active correspondent across Turkey, South Korea, India via Slowly |
 | 🎓 **Pre-Final Year CS Student** | B.Tech Computer Science, graduating 2028, full-stack and ML portfolio |
-| 🌍 **International Mindset** | Pursuing global opportunities in AI/ML and data science |
 
 </div>
 
@@ -356,7 +353,7 @@ open_to:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kapil-paliwal-60531b347)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve%20with%20me-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/u/Kapilp10)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kapilp10)
-[![Instagram](https://img.shields.io/badge/Instagram-@10mm.dreams-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/10mm.dreams)
+[![Instagram](https://img.shields.io/badge/Instagram-@kapil.10__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kapil.10__)
 
 </div>
 
