@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6D28D9,4F46E5,7C3AED&height=200&section=header&text=Kapil%20Paliwal&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Data%20Scientist&descAlignY=60&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6D28D9,4F46E5,7C3AED&height=200&section=header&text=Kapil%20Paliwal&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Data%20Scientist&descAlignY=60&descAlign=50" width="100%"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
@@ -37,26 +37,24 @@
 ```yaml
 name        : Kapil Paliwal
 username    : kapilp10
-role        : Software Engineer & AI/ML Engineer
+role        : AI/ML Engineer
 location    : Indore, Madhya Pradesh, India
 education   : B.Tech Computer Science — Class of 2028
-focus       : Data Science · Machine Learning · Full Stack Engineering
+focus       : Data Science · Machine Learning 
 linkedin    : linkedin.com/in/kapil-paliwal-60531b347
 leetcode    : leetcode.com/u/Kapilp10
 ```
 
-I'm a final-year Computer Science student building at the intersection of intelligent systems and thoughtful product engineering. My work spans full-stack web development with React.js, machine learning pipelines, and applied data science. I approach engineering with the mindset of someone who cares about the *why* as much as the *how* — the systems I build tend to be personal, purposeful, and production-aware.
+I'm a final-year Computer Science student building at the intersection of intelligent systems and thoughtful product engineering. My work spans machine learning pipelines, and applied data science. I approach engineering with the mindset of someone who cares about the *why* as much as the *how* — the systems I build tend to be personal, purposeful, and production-aware.
 
-I've shipped real-world applications including a private letter exchange platform, an ML-based crime detection system, a personal productivity suite, and a native Android worry-tracking app. Currently deepening my expertise in AI/ML engineering with a focus on practical, deployable models.
+I've shipped real-world applications including an ML-based crime detection system, a personal productivity suite, and a native Android worry-tracking app. Currently deepening my expertise in AI/ML engineering with a focus on practical, deployable models.
 
 <br/>
 
 **Open To:**
 - AI/ML Engineering roles
 - Data Science and Analytics positions
-- Full Stack Engineering opportunities
 - Research collaborations and open-source contributions
-- International opportunities in tech
 
 ---
 
@@ -65,7 +63,7 @@ I've shipped real-world applications including a private letter exchange platfor
 <div align="center">
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=python,cpp,js,kotlin,sql&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,cpp,js,sql&theme=dark)](https://skillicons.dev)
 
 ### Frontend
 [![Frontend](https://skillicons.dev/icons?i=react,tailwind,html,css,vite,figma&theme=dark)](https://skillicons.dev)
@@ -86,7 +84,7 @@ I've shipped real-world applications including a private letter exchange platfor
 
 | Domain | Proficiency | Details |
 |---|---|---|
-| **Machine Learning** | ████████░░ Advanced | Supervised & unsupervised learning, model evaluation, scikit-learn pipelines |
+| **Machine Learning** | ███████░░ Intermediate | Supervised & unsupervised learning, model evaluation, scikit-learn pipelines |
 | **Deep Learning** | ███████░░░ Intermediate | Neural networks, CNNs, feature engineering with TensorFlow / PyTorch |
 | **Data Science** | ████████░░ Advanced | EDA, statistical analysis, pandas, numpy, matplotlib, seaborn |
 | **Computer Vision** | ██████░░░░ Intermediate | Image classification, object detection, OpenCV |
