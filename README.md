@@ -45,7 +45,7 @@ linkedin    : linkedin.com/in/kapil-paliwal-60531b347
 leetcode    : leetcode.com/u/Kapilp10
 ```
 
-I'm a final-year Computer Science student building at the intersection of intelligent systems and thoughtful product engineering. My work spans machine learning pipelines, and applied data science. I approach engineering with the mindset of someone who cares about the *why* as much as the *how* — the systems I build tend to be personal, purposeful, and production-aware.
+I'm a pre-final-year Computer Science student building at the intersection of intelligent systems and thoughtful product engineering. My work spans machine learning pipelines, and applied data science. I approach engineering with the mindset of someone who cares about the *why* as much as the *how* — the systems I build tend to be personal, purposeful, and production-aware.
 
 I've shipped real-world applications including an ML-based crime detection system, a personal productivity suite, and a native Android worry-tracking app. Currently deepening my expertise in AI/ML engineering with a focus on practical, deployable models.
 
